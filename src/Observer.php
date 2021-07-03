@@ -7,4 +7,34 @@ class Observer
     {
 
     }
+
+    public function hello()
+    {
+
+    }
+
+    public function world()
+    {
+        
+    }
+
+    public function masterOne()
+    {
+
+    }
+
+    public function masterTwo()
+    {
+        
+    }
+
+    public function masterThree()
+    {
+
+    }
+
+    public function masterFour()
+    {
+        
+    }
 }
