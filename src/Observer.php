@@ -37,4 +37,29 @@ class Observer
     {
         
     }
+
+    public function one()
+    {
+        // TODO:: one
+    }
+
+    public function two()
+    {
+        // TODO:: two
+    }
+
+    public function three()
+    {
+
+    }
+
+    public function four()
+    {
+        
+    }
+
+    public function five()
+    {
+        
+    }
 }
